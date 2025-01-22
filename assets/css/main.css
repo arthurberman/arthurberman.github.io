@@ -12,3 +12,13 @@ p {
     display: flex;
     justify-content: center;
 }
+.quote {
+    justify-content: left;
+}
+.author {
+    justify-content: right;
+}
+
+.quote-div {
+    max-width: 10vw;
+}
