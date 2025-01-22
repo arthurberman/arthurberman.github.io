@@ -4,7 +4,12 @@
         <Quote content=" Do you ever feel like the internet is worse now? I sure do." author="Arthur Berman"/>
         <p> Arthur's
             personal site is a return to the good era of the internet. Consider checking out my&nbsp;
-            <NuxtLink to="/music">music</NuxtLink>
+            <NuxtLink to="/music">music</NuxtLink>,&nbsp;
+
+
+            <a href="https://artprojects.itch.io/orion-towers">games</a>,&nbsp;
+            and&nbsp;
+            <NuxtLink to="/blog">writing</NuxtLink>.
         </p>
     </div>
 </template>
