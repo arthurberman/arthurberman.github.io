@@ -1,0 +1,14 @@
+* {
+    background-color: aliceblue;
+}
+
+h1 {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+}
