@@ -1,14 +1,11 @@
 <template>
     <div>
         <h1>A website for Arthur's projects.</h1>
-        <Quote content=" Do you ever feel like the internet is worse now? I sure do." author="Arthur Berman"/>
-        <p> Arthur's
-            personal site is a return to the good era of the internet. Consider checking out my&nbsp;
-            <NuxtLink to="/music">music</NuxtLink>,&nbsp;
-
-
-            <a href="https://artprojects.itch.io/orion-towers">games</a>,&nbsp;
-            and&nbsp;
+        <p>
+            A return to the good era of the internet. Consider checking out my
+            <NuxtLink to="/music">music</NuxtLink>,
+            <a href="https://artprojects.itch.io/">games</a>,
+            and
             <NuxtLink to="/blog">writing</NuxtLink>.
         </p>
     </div>
