@@ -53,8 +53,8 @@ html {
 }
 
 .middle {
-    padding: 3em;
-    margin: 3em;
+    padding: 2em;
+    margin: 1em;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
