@@ -1,7 +1,7 @@
 <script setup lang="ts">
 const appConfig = useAppConfig();
 useHead({
-  title: 'STEAM Education'
+  title: 'Arthur\'s Page'
 })
 </script>
 <style>
