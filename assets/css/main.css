@@ -8,10 +8,10 @@ p {
     justify-content: center;
 }
 #teaching {
-    width: 50%;
 }
 .navbar {
     display: flex;
+    flex-wrap: wrap;
     padding-top: 1em;
     list-style-type: none;
     text-align: center;
@@ -19,6 +19,7 @@ p {
     align-self: center;
     border-radius: 5%;
     height: 3em;
+    margin-bottom: 2em;
 }
 
 a, a:visited, a:hover, a:active
@@ -52,28 +53,27 @@ html {
 }
 
 .middle {
+    padding: 3em;
+    margin: 3em;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     border: solid black 1px;
     border-radius: 5%;
     min-height: 100vh;
-    min-width: 50vw;
+    max-width: 800px;
 }
 
 #music {
     justify-content: center;
-    width: 90%;
     flex-wrap: wrap;
 }
 img {
-    width: 20vw;
 }
 .splash {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    width: 90%;
 }
 html {
     background-image: url("/images/image.png");
