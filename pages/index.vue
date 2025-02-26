@@ -2,7 +2,7 @@
     <div>
         <h1>A website for Arthur's projects.</h1>
         <p>
-            A return to the good era of the internet. Consider checking out my
+            Hi! Consider checking out my
             <NuxtLink to="/music">music</NuxtLink>,
             <a href="https://artprojects.itch.io/">games</a>,
             and
