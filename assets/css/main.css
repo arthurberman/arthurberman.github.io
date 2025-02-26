@@ -7,7 +7,9 @@ h1 {
 p {
     justify-content: center;
 }
-
+#teaching {
+    width: 50%;
+}
 .navbar {
     display: flex;
     padding-top: 1em;
@@ -22,8 +24,6 @@ p {
 a, a:visited, a:hover, a:active
 {
     color: inherit;
-    padding-left: 1em;
-    padding-right: 1em;
 }
 
 .navbar li a {
@@ -52,10 +52,33 @@ html {
 }
 
 .middle {
+    display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     border: solid black 1px;
     border-radius: 5%;
     min-height: 100vh;
     min-width: 50vw;
-    padding: 10vh;
+}
+
+#music {
+    justify-content: center;
+    width: 90%;
+    flex-wrap: wrap;
+}
+img {
+    width: 20vw;
+}
+.splash {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 90%;
+}
+html {
+    background-image: url("/images/image.png");
+}
+
+.tabular {
+    list-style: none;
 }
