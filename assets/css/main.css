@@ -20,6 +20,7 @@ p {
     border-radius: 5%;
     height: 3em;
     margin-bottom: 2em;
+    height: auto;
 }
 
 a, a:visited, a:hover, a:active
