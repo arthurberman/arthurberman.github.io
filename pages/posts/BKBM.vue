@@ -1,3 +1,2 @@
 <template>
-    <Posts-OneDayEP />
 </template>

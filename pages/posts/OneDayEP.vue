@@ -1,5 +1,5 @@
 <script setup lang="ts">
-const oneDayEP = `
+const oneDayEP: String = `
 # Preparing for a one-day EP
 On March 1st 2025, I'll be welcoming a group of musician friends to my home studio to write and record an album (or at
 least an EP) from scratch. I've explored a few options for how to format the day's work.
@@ -53,8 +53,10 @@ Cons:
 
 So, the format for the day is to simply play some group improvisation games of my own design, then write some songs
 based on the experience!
+
+Check back in for a part 2 report on how it went!
 `
 </script>
 <template>
-    <MDC :value="oneDayEP" tag="article" />
+    <MDC :value="oneDayEP" />
 </template>
