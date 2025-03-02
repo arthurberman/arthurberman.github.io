@@ -63,6 +63,7 @@ html {
     border-radius: 5%;
     min-height: 100vh;
     max-width: 800px;
+    background-color: bisque;
 }
 
 #music {
