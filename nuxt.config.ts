@@ -3,23 +3,4 @@ export default defineNuxtConfig({
   compatibilityDate: "2024-11-01",
   devtools: { enabled: true },
   modules: ["@nuxt/image", "@nuxtjs/mdc", "@nuxt/content"],
-  content: {
-    build: {
-      markdown: {
-        toc: {
-          depth: 3, // include h3 headings
-        },
-      },
-    },
-  },
-  ssr: true,
-  experimental: {
-    payloadExtraction: false,
-  },
-  router: {
-    options: {
-      strict: false,
-    },
-  },
-  sourcemap: false,
 });
