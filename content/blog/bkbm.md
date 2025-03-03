@@ -47,4 +47,4 @@ Cons:
 
 - improvisation in the moment + remembering for later is an intense congnitive load
 
-So, the format for the day is to simply play some group improvisation games of my own design, then write some songs based on the experience!
+So, the format for the day is to simply play some group improvisation games, then write some songs based on the experience!
