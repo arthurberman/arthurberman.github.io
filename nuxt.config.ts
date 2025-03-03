@@ -12,5 +12,12 @@ export default defineNuxtConfig({
       },
     },
   },
-  experimental: { payloadExtraction: true },
+  nitro: {
+    static: true,
+    prerender: {
+      crawlLinks: true,
+      routes: ["/"],
+      ignore: [],
+    },
+  },
 });
