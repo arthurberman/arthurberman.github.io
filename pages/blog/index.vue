@@ -7,7 +7,7 @@ const { data: posts } = await useAsyncData('blog', () => queryCollection('blog')
         <h1>Blog</h1>
         <ul>
             <li v-for="post in posts" :key="post.id">
-                <NuxtLink :to="post.path">{{ post.title }}</NuxtLink>
+                <NuxtLink :to="post.path">{{ post.title }} : {{ post.date }}</NuxtLink>
             </li>
         </ul>
     </div>
