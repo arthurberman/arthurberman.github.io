@@ -13,11 +13,6 @@ export default defineNuxtConfig({
     },
   },
   nitro: {
-    static: true,
-    prerender: {
-      crawlLinks: true,
-      routes: ["/"],
-      ignore: [],
-    },
+    preset: "githubPages",
   },
 });
