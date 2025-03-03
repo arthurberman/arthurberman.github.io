@@ -12,7 +12,14 @@ export default defineNuxtConfig({
       },
     },
   },
-  nitro: {
-    preset: "githubPages",
+  ssr: true,
+  experimental: {
+    payloadExtraction: false,
   },
+  router: {
+    options: {
+      strict: false,
+    },
+  },
+  sourcemap: false,
 });
