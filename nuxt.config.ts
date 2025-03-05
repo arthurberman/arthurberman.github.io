@@ -6,7 +6,7 @@ export default defineNuxtConfig({
   nitro: {
     prerender: {
       crawlLinks: true,
-      routes: ["/content/blog/*"],
+      routes: ["/content/blog/bkbm.md"],
     },
   },
 });
