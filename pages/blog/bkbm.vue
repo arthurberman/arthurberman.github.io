@@ -14,7 +14,8 @@ Pay attention to production and quality.
 
 ## Possible Approaches
 
-Individual songwriting: taking 30 minutes to write songs individually or in small groups seemed like a good option at first. I've seen it work before: 30 minutes is a limited amount of time, and an expectation of a complete, performable song constructed in that time tends to produce surprising and impressive results.
+### Individual songwriting: 
+Taking 30 minutes to write songs individually or in small groups seemed like a good option at first. I've seen it work before: 30 minutes is a limited amount of time, and an expectation of a complete, performable song constructed in that time tends to produce surprising and impressive results.
 
 Pros:
 
@@ -26,7 +27,8 @@ Cons:
 - teaching the songs to other bandmates is a pain
 - individual ownership of songs might lead to hurt feelings.
 
-Group songwriting: quickly generate A and B sections one after the next, then stitch them into songs.
+### Group songwriting:
+Quickly generate A and B sections one after the next, then stitch them into songs.
 
 Pros:
 
@@ -39,7 +41,8 @@ Cons:
 - inflexibility
 - no opportunity for lyrics
 
-Overture: freely improvise, and harvest favorite themes
+### Overture:
+freely improvise, and harvest favorite themes
 
 Pros:
 
@@ -49,8 +52,7 @@ Cons:
 
 - improvisation in the moment + remembering for later is an intense congnitive load
 
-So, the format for the day is to simply play some group improvisation games, then write some songs based on the experience!
-
+In the end, the format for the day is to simply play some group improvisation games, then write some songs based on the experience!
 `
 </script>
 <template>
