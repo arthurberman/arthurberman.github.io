@@ -9,6 +9,12 @@
                     src="https://bandcamp.com/EmbeddedPlayer/track=3935431134/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/"
                     seamless><a href="https://artprojects.bandcamp.com/track/entropy">Entropy by
                         artprojects</a></iframe></li>
+            <li class="tabular">
+                <iframe style="border: 0; width: 100%; height: 42px;"
+                    src="https://bandcamp.com/EmbeddedPlayer/album=1106364338/size=small/bgcol=ffffff/linkcol=0687f5/track=1666223908/transparent=true/"
+                    seamless><a href="https://artprojects.bandcamp.com/album/the-bear-king-bear-man-band">The Bear King
+                        Bear Man Band by The Bear King Bear Man Band</a></iframe>
+            </li>
         </ul>
         <iframe scrolling="no" style="border: 0;width: 100%;height: 50px;"
             src="https://bandcamp.com/band_follow_button_deluxe/1698212163"></iframe>
