@@ -8,5 +8,9 @@
             and
             <NuxtLink to="/blog">writing</NuxtLink>.
         </p>
+        <p>
+            You may also enjoy my "minimum viable pinball" project on <a
+                href="https://github.com/arthurberman/super-pinball-battle-mecha/">github</a>.
+        </p>
     </div>
 </template>
